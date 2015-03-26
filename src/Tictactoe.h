@@ -1,5 +1,7 @@
 #ifndef TIC_TAC_TOE
 
+#define TIC_TAC_TOE
+
 struct Matrix
 {
      char *elements;
